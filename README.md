@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  Neeraj Ravi Pratap
-- 👀 I’m student at NIT KURUKSHETRA
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m  Associate Software Engineer with more than 1 year.
+- 🌱 I’m currently working on ERPNext using Frappe------->  Javascript,Python,MySql,Jquery,Jinja,Docker,.
 
 - 📫 How to reach me neeraj880834@gmail.com
 
