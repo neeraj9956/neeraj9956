@@ -1,6 +1,6 @@
-- 👋 Hi, I’m  Neeraj Ravi Pratap
-- 👀 I’m  Associate Software Engineer with more than 1 year.
-- 🌱 I’m currently working on ERPNext using Frappe------->  Javascript,Python,MySql,Jquery,Jinja,Docker,.
+# - 👋 Hi, I’m  Neeraj Ravi Pratap
+# 👀 I’m  Associate Software Engineer with more than 2 year in Python Development.
+# 🌱 I’m currently working on ERPNext using Frappe  Javascript,Python,MySql,Jquery,Jinja.
 
 - 📫 How to reach me neeraj880834@gmail.com
 
